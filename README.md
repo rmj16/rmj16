@@ -7,9 +7,6 @@
 - 👯 디지털 헬스케어와 보안에 관심이 많습니다.
 - 📫 연락처: [rmj0248@gmail.com]
 
-## 🎞️ 동적인 GitHub 활동
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
-
 ## 🏆 트로피 케이스
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
