@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ 소개
 - 🔭 현재 대학생입니다.
-- 🌱 보안에 대해 공부 중입니다.
+- 🌱 보안과 언어들에 대해 공부 중입니다.
 - 👯 디지털 헬스케어와 보안에 관심이 많습니다.
 - 📫 연락처: [rmj0248@gmail.com]
 
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 빠른 링크
-- [내 블로그](https://dhwldwlddl.tistory.com/)
+- [블로](https://dhwldwlddl.tistory.com/)
 
 ## ⚡ 재미있는 사실
 - 요즘 취미는 클라리넷과 플룻 연주입니다.
