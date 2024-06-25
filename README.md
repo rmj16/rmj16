@@ -10,11 +10,8 @@
 ## 🏆 트로피 케이스
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 상세 통계
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🔗 빠른 링크
-- [블로](https://dhwldwlddl.tistory.com/)
+- [블로그](https://dhwldwlddl.tistory.com/)
 
 ## ⚡ 재미있는 사실
 - 요즘 취미는 클라리넷과 플룻 연주입니다.
