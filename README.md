@@ -8,9 +8,12 @@
 - 📫 연락처: [rmj0248@gmail.com]
 
 ## 🛠 기술 스택
+<< Language >>
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<< Ect >>
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ## 🏆 트로피 케이스
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
