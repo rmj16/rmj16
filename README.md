@@ -7,6 +7,11 @@
 - 👯 디지털 헬스케어와 보안에 관심이 많습니다.
 - 📫 연락처: [rmj0248@gmail.com]
 
+## 🛠 기술 스택
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ## 🏆 트로피 케이스
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
