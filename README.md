@@ -1,16 +1,15 @@
-## Hi there 👋
+# 안녕하세요! 저는 [MinJeong]입니다 👋
 
-<!--
-**rmj16/rmj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ 소개
+- 🔭 현재 대학생입니다.
+- 🌱 보안에 대해 공부 중입니다.
+- 👯 디지털 헬스케어와 보안에 관심이 많습니다.
+- 📫 연락처: [rmj0248@gmail.com]
 
-Here are some ideas to get you started:
+## 🛠 기술 스택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub 통계
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## ⚡ 재미있는 사실
+- 요즘 취미는 클라리넷과 플룻 연주입니다.
